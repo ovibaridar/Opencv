@@ -1,6 +1,6 @@
 import cv2 as cv
 
-path = "img/ar.jpg"
+path = "img/123.png"
 img = cv.imread(path)
 # img = cv.bitwise_not(img)
 img = cv.bitwise_not(img)
